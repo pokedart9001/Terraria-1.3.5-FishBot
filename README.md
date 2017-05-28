@@ -25,6 +25,7 @@ As well as the following checkboxes:
 4. After a few seconds, the script will start and you can go do something else for a while.
 
 ## Other Notes
+- This program assumes Left-Click uses an item, Right-Click throws away an item, and Escape opens inventory. In other words, the default Terraria controls are used here.
 - *Wait for empty stack* does exactly as it says, and it ignores the number of repeats. **Be careful when using this.**
 - The glitch used by this bot may or may not be patched in a later version of Terraria.
 - The GUI uses the font from Terraria (Andy Bold), which I had to install manually. You may have to do the same.
