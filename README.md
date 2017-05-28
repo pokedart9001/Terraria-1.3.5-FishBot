@@ -1,5 +1,6 @@
 # Terraria 1.3.5 FishBot
 Finally, a fishing bot that can be used on Mac (not tested on Windows)
+Made in IntelliJ (GUI was made using the built-in form editor)
 
 ## Summary
 This bot exploits a glitch in Terraria 1.3.1 and 1.3.5 that allows the player to cast multiple fishing lines at the same time, allowing for quick and efficient fishing.
