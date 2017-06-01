@@ -24,11 +24,12 @@ public class FishBotScript extends Thread
         this.seconds = seconds;
     }
 
-    public void start ()
+    public void start()
     {
         if (thread == null)
         {
-            thread = new Thread (this);
+            thread = new Thread(this);
+            thread.setDaemon(true);
             thread.start();
         }
     }
